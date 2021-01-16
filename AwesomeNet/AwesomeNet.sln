@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeNet.Web", "AwesomeNet.Web\AwesomeNet.Web.csproj", "{9C8D1340-6175-4A73-962D-A679CC311487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeNet.Core", "AwesomeNet.Core\AwesomeNet.Core.csproj", "{80AE4335-EF47-407E-AED8-AFA9718F9DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeNet.Infrastructure", "AwesomeNet.Infrastructure\AwesomeNet.Infrastructure.csproj", "{62754464-066F-4E97-80DE-59E8D55437FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{9C8D1340-6175-4A73-962D-A679CC311487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C8D1340-6175-4A73-962D-A679CC311487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C8D1340-6175-4A73-962D-A679CC311487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AE4335-EF47-407E-AED8-AFA9718F9DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AE4335-EF47-407E-AED8-AFA9718F9DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AE4335-EF47-407E-AED8-AFA9718F9DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AE4335-EF47-407E-AED8-AFA9718F9DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62754464-066F-4E97-80DE-59E8D55437FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62754464-066F-4E97-80DE-59E8D55437FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62754464-066F-4E97-80DE-59E8D55437FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62754464-066F-4E97-80DE-59E8D55437FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
